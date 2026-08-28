@@ -49,10 +49,8 @@ Random Forest Classifier
 ## 📈 Results
 Random Forest performed better than the other tested models.
 
-![Project Dashboard](social_network_ads_dashboard.png)
-
 
 ## 📷 Visualizations
 <p align="center">
-  <img src="social_network_ads_dashboard.png" width="1000">
+  <img src="social_network_ads_dashboard.png.png" width="1000">
 </p>
