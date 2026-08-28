@@ -52,5 +52,5 @@ Random Forest performed better than the other tested models.
 
 ## 📷 Visualizations
 <p align="center">
-  <img src="social_network_ads_dashboard.png.png" width="1000">
+  <img src="Social Network Ads Prediction Dashboard.png" width="1000">
 </p>
